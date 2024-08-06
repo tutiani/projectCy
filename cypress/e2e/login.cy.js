@@ -1,5 +1,5 @@
 
-describe('Register', () => {
+describe('Login Page', () => {
     beforeEach(() => {
         cy.visit(Cypress.config('autest'))
     });
